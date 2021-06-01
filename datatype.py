@@ -13,7 +13,7 @@ False
 
 # 有順序、可動的列表 List
 [3,4,5]
-["Hello","World"]
+["Helloooooo","World"]
 
 # 有順序、不可動的列表 Tuple
 (3,4,5)
